@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "rpg,songful"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -31,7 +31,7 @@ menu:
   archives: /archives
   tags: /tags
   #commonweal: /404.html
-
+  about: /about
 
 # Enable/Disable menu icons.
 # Icon Mapping:
@@ -56,7 +56,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
+scheme: Mist
 #scheme: Mist
 #scheme: Pisces
 
